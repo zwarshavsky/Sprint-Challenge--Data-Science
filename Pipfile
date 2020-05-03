@@ -9,6 +9,7 @@ verify_ssl = true
 pandas = "*"
 ipython = "*"
 pyspark = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
